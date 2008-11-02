@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2421
+
+PySmell is an alternative omnicompletion library for Python.
+
+It has two parts: The Python library that does the analyzing, and the Vim script that calls into the library. 
+
+It works by analyzing your codebase once, saving information in a TAGS file, and using that to provide context-aware completions. 
+
+There is more documentation in the README and in pysmell.vim
+
+The project is hosted at http://code.google.com/p/pysmell
+The code repo is at http://github.com/orestis/pysmell
+Follow news at http://orestis.gr
